@@ -9,7 +9,7 @@ Created a small Azure environment with:
 -VNET
 -Storage Account
 
-Isers placed in groups with least privilege access:
+Users placed in groups with least privilege access:
 -Vm-Tech -> VM access
 -vnet-tech -> VNet access
 
