@@ -1,0 +1,11 @@
+# Ignore the real RBAC export (contains sensitive info)
+rbac.json
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore any environment or secret files
+.env
+secrets.json
+*.key
