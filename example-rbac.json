@@ -1,12 +1,12 @@
 [
   {
     "principalName": "vm-tech",
-    "roleDefinitionName": "Virtual Machine contributor"
+    "roleDefinitionName": "Virtual Machine contributor",
     "scope": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/RG-TEST-LAB"
   },
   {
-    "principalName": "vnet-tech"
+    "principalName": "vnet-tech",
     "roleDefinitionName": "Network Contributor",
-    "scope": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/RG-TEST-LAB
-  },
-   ]
+    "scope": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/RG-TEST-LAB"
+  }
+]
