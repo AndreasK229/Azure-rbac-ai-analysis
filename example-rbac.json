@@ -8,5 +8,5 @@
     "principalName": "vnet-tech"
     "roleDefinitionName": "Network Contributor",
     "scope": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/RG-TEST-LAB
-  }
+  },
    ]
